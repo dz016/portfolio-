@@ -23,8 +23,6 @@ export const DATA = {
     "JavaScript",
     "Git",
     "GitHub",
-    "VSCode",
-    "Node.js",
     "Jupyter Notebook",
     "Google Colab",
     "NumPy",
